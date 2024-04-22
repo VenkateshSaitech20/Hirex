@@ -1,0 +1,32 @@
+export const imagePath = {
+    logo : `${process.env.PUBLIC_URL}/assets/images/logo/logo.png`,
+    android : `${process.env.PUBLIC_URL}/assets/images/main/android.png`,
+    human : `${process.env.PUBLIC_URL}/assets/images/home/human.svg`,
+    jobSearch : `${process.env.PUBLIC_URL}/assets/images/home/job-search.png`,
+    login : `${process.env.PUBLIC_URL}/assets/images/main/login.svg`,
+    signup : `${process.env.PUBLIC_URL}/assets/images/main/signup.svg`,
+    resetpw : `${process.env.PUBLIC_URL}/assets/images/main/reset-password.svg`,
+    officeBuilding : `${process.env.PUBLIC_URL}/assets/images/main/office-building.png`,
+    facebook : `${process.env.PUBLIC_URL}/assets/images/icons/facebook.png`,
+    twitter : `${process.env.PUBLIC_URL}/assets/images/icons/twitter.png`,
+    linkedin : `${process.env.PUBLIC_URL}/assets/images/icons/linkedin.png`,
+    nodata : `${process.env.PUBLIC_URL}/assets/images/main/no-data.png`,
+    lookingJob : `${process.env.PUBLIC_URL}/assets/images/home/looking-job.svg`,
+    recruiter : `${process.env.PUBLIC_URL}/assets/images/home/recruiter.svg`,
+    resumeOne : `${process.env.PUBLIC_URL}/assets/images/resumeImage/resume-template-one.png`,
+    resumeTwo : `${process.env.PUBLIC_URL}/assets/images/resumeImage/resume-template-two.png`,
+    resumeThree : `${process.env.PUBLIC_URL}/assets/images/resumeImage/resume-template-three.png`,
+    resumeFour : `${process.env.PUBLIC_URL}/assets/images/resumeImage/resume-template-four.png`,
+    email : `${process.env.PUBLIC_URL}/assets/images/contact/email.png`,
+    mobile : `${process.env.PUBLIC_URL}/assets/images/contact/mobile.png`,
+    location : `${process.env.PUBLIC_URL}/assets/images/contact/location.png`,
+    date : `${process.env.PUBLIC_URL}/assets/images/contact/date.png`,
+    profileView : `${process.env.PUBLIC_URL}/assets/images/subscription/profile-view.png`, 
+    addUser : `${process.env.PUBLIC_URL}/assets/images/subscription/add-user.png`, 
+    jobPost : `${process.env.PUBLIC_URL}/assets/images/subscription/job-post.png`, 
+    downloadCvv : `${process.env.PUBLIC_URL}/assets/images/subscription/download-cvv.png`,
+}
+
+export const currencySymbols = {
+    rupee : "₹",
+}
